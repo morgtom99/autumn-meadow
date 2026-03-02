@@ -1,0 +1,59 @@
+{
+  "id": "theme-autumn-harvest",
+  "title": "Autumn Harvest",
+  "description": "A warm and earthy palette that evokes the feeling of a crisp autumn day.",
+  "seedPalette": [
+    "#b38080",
+    "#A0522D",
+    "#D2691E",
+    "#8B4513",
+    "#DAA520",
+    "#BDB76B",
+    "#556B2F"
+  ],
+  "colorConcepts": [
+    [
+      "red-leaf",
+      "maple",
+      "stone"
+    ],
+    [
+      "leaf",
+      "earth",
+      "soil"
+    ],
+    [
+      "pumpkin",
+      "nutmeg",
+      "fall"
+    ],
+    [
+      "wood",
+      "branch",
+      "log"
+    ],
+    [
+      "hay",
+      "dry grass",
+      "field"
+    ],
+    [
+      "moss",
+      "lichen",
+      "grass"
+    ],
+    [
+      "evergreen",
+      "pine",
+      "forest"
+    ]
+  ],
+  "primary": "25 76% 44%",
+  "background": "82 39% 30%",
+  "accent": "82 39% 40%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "photographic",
+    "detail": "detailed"
+  }
+}
