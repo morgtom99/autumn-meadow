@@ -1,9 +1,9 @@
 {
-  "id": "theme-autumn-meadow",
+  "id": "theme-autumn-harvest",
   "title": "Autumn Harvest",
   "description": "A warm and earthy palette that evokes the feeling of a crisp autumn day.",
   "owner": "morgtom99",
-  "repository": "autumn-meadow",
+  "repository": "autumn-harvest",
   "seedPalette": [
     "#b38080",
     "#A0522D",
